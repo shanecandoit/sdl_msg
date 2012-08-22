@@ -1,0 +1,10 @@
+
+lets write a message passing framework that uses
+	- c++
+	- sdl
+
+todo: lots
+	- move everything to its own file
+	- do the todos in the files
+	- move to a make file
+	
